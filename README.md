@@ -1,4 +1,4 @@
-# Versitron--Single-Fiber-Media-Converter-for-Fiber-Optic-Solutions
+# Single-Fiber-Media-Converter-for-Fiber-Optic-Solutions
 Versitron’s single fiber media converters optimize fiber optic Ethernet extension, surveillance, and security applications—enabling bidirectional data transmission over one fiber for cost-effective, high-performance networking.
 
 # Versitron | Single Fiber Media Converter for Fiber Optic Solutions | Single Fiber Media Converter for Fiber Optic Technology | Single Fiber Media Converter for Fiber Optic Ethernet Extension | Single Fiber Media Converter for Fiber Optic Surveillance | Single Fiber Media Converter for Fiber Optic Security
